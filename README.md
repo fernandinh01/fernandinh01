@@ -1,6 +1,6 @@
-- _Olá_
+- **Olá**
   
-Meu nome é _Fernando_ e sou um estudante da escola Ana Franco.
+Meu nome é **Fernando** e sou um estudante da escola Ana Franco.
 
 Faço diversos projetos no programa da Alura para adquirir conhecimentos.
 
